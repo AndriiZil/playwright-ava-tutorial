@@ -1,0 +1,25 @@
+{
+  "name": "playwright-ava-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndriiZil/playwright-ava-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndriiZil/playwright-ava-tutorial/issues"
+  },
+  "homepage": "https://github.com/AndriiZil/playwright-ava-tutorial#readme",
+  "dependencies": {
+    "ava": "^4.2.0",
+    "playwright": "^1.22.2",
+    "prettier": "^2.6.2"
+  }
+}
