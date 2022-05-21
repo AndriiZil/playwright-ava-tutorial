@@ -14,5 +14,5 @@ async function pageMacro(t, callBack) {
 
 test('Ava integration with playwright', pageMacro, async (t, page) => {
   await page.goto('https://www.example.com');
-  t.is(await page.title(), 'Example Domain')
-})
+  t.is(await page.title(), 'Example Domain');
+});
